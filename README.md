@@ -13,5 +13,6 @@
 
 Проект реализован при помощи HTML5 и CSS3.
 
-## Ссылка на проект:
-https://sergeyklopov94.github.io/how-to-learn/
+**GitHub**
+
+* [Ссылка на проект в GitHub](https://sergeyklopov94.github.io/how-to-learn/)
